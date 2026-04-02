@@ -7,7 +7,7 @@
     "light": "#615d59",
     "dark": "#31302e"
   },
-  "favicon": "/assets/logo/notion-rhino-icon-black.svg",
+  "favicon": "/assets/favicon/notion-rhino-favicon.ico",
   "navigation": {
     "languages": [
       {
@@ -168,6 +168,61 @@
                     "group": "專案管理看板",
                     "pages": [
                       "zh-Hant/templates/project-management-dashboard/understanding-projects-and-epics"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "es",
+        "tabs": [
+          {
+            "tab": "Guías",
+            "groups": [
+              {
+                "group": "Primeros pasos",
+                "pages": [
+                  "es/index",
+                  "es/guides/getting-started/create-notion-account"
+                ]
+              },
+              {
+                "group": "Conceptos básicos",
+                "pages": [
+                  "es/guides/essentials/what-is-notion",
+                  "es/guides/essentials/what-is-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Instalación",
+            "groups": [
+              {
+                "group": "Conceptos clave",
+                "pages": [
+                  "es/installation/installing-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Plantillas",
+            "groups": [
+              {
+                "group": "Antes de empezar",
+                "pages": []
+              },
+              {
+                "group": "Plantillas",
+                "pages": [
+                  {
+                    "group": "Project Management Dashboard",
+                    "pages": [
+                      "es/templates/project-management-dashboard/understanding-projects-and-epics"
                     ]
                   }
                 ]
