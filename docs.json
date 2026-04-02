@@ -175,6 +175,61 @@
             ]
           }
         ]
+      },
+      {
+        "language": "ja",
+        "tabs": [
+          {
+            "tab": "ガイド",
+            "groups": [
+              {
+                "group": "はじめに",
+                "pages": [
+                  "ja/index",
+                  "ja/guides/getting-started/create-notion-account"
+                ]
+              },
+              {
+                "group": "基本",
+                "pages": [
+                  "ja/guides/essentials/what-is-notion",
+                  "ja/guides/essentials/what-is-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "インストール",
+            "groups": [
+              {
+                "group": "基本概念",
+                "pages": [
+                  "ja/installation/installing-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "テンプレート",
+            "groups": [
+              {
+                "group": "はじめる前に",
+                "pages": []
+              },
+              {
+                "group": "テンプレート",
+                "pages": [
+                  {
+                    "group": "プロジェクト管理ダッシュボード",
+                    "pages": [
+                      "ja/templates/project-management-dashboard/understanding-projects-and-epics"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ],
     "global": {
