@@ -1,0 +1,225 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "aspen",
+  "name": "notionrhino",
+  "colors": {
+    "primary": "#494744",
+    "light": "#615d59",
+    "dark": "#31302e"
+  },
+  "favicon": "/assets/logo/notion-rhino-icon-black.svg",
+  "navigation": {
+    "languages": [
+      {
+        "language": "en",
+        "tabs": [
+          {
+            "tab": "Guides",
+            "groups": [
+              {
+                "group": "Getting started",
+                "pages": [
+                  "en/index",
+                  "en/guides/getting-started/create-notion-account"
+                ]
+              },
+              {
+                "group": "Essentials",
+                "pages": [
+                  "en/guides/essentials/what-is-notion",
+                  "en/guides/essentials/what-is-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Installation",
+            "groups": [
+              {
+                "group": "Core concepts",
+                "pages": [
+                  "en/installation/installing-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Templates",
+            "groups": [
+              {
+                "group": "Before you start",
+                "pages": [
+                ]
+              },
+              {
+                "group": "Templates",
+                "pages": [
+                  {
+                    "group": "Project Management Dashboard",
+                    "pages": [
+                      "en/templates/project-management-dashboard/understanding-projects-and-epics"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "zh-Hans",
+        "tabs": [
+          {
+            "tab": "指南",
+            "groups": [
+              {
+                "group": "快速入门",
+                "pages": [
+                  "zh-Hans/index",
+                  "zh-Hans/guides/getting-started/create-notion-account"
+                ]
+              },
+              {
+                "group": "基础知识",
+                "pages": [
+                  "zh-Hans/guides/essentials/what-is-notion",
+                  "zh-Hans/guides/essentials/what-is-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "安装",
+            "groups": [
+              {
+                "group": "核心概念",
+                "pages": [
+                  "zh-Hans/installation/installing-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "模板",
+            "groups": [
+              {
+                "group": "开始之前",
+                "pages": []
+              },
+              {
+                "group": "模板",
+                "pages": [
+                  {
+                    "group": "项目管理看板",
+                    "pages": [
+                      "zh-Hans/templates/project-management-dashboard/understanding-projects-and-epics"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "zh-Hant",
+        "tabs": [
+          {
+            "tab": "指南",
+            "groups": [
+              {
+                "group": "快速入門",
+                "pages": [
+                  "zh-Hant/index",
+                  "zh-Hant/guides/getting-started/create-notion-account"
+                ]
+              },
+              {
+                "group": "基礎知識",
+                "pages": [
+                  "zh-Hant/guides/essentials/what-is-notion",
+                  "zh-Hant/guides/essentials/what-is-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "安裝",
+            "groups": [
+              {
+                "group": "核心概念",
+                "pages": [
+                  "zh-Hant/installation/installing-a-template"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "範本",
+            "groups": [
+              {
+                "group": "開始之前",
+                "pages": []
+              },
+              {
+                "group": "範本",
+                "pages": [
+                  {
+                    "group": "專案管理看板",
+                    "pages": [
+                      "zh-Hant/templates/project-management-dashboard/understanding-projects-and-epics"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Shop Templates",
+          "href": "https://www.notionrhino.com/shop.html",
+          "icon": "shop"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/assets/logo/notion-rhino-logo-black.svg",
+    "dark": "/assets/logo/notion-rhino-logo-white.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:support@notionrhino.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Shop Templates",
+      "href": "https://www.notionrhino.com/shop.html"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/notionrhino",
+      "youtube": "https://youtube.com/@notionrhino"
+    }
+  }
+}

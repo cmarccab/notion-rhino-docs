@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mintlify
+.mintlify/
+mint-cache/
+
+# Draft content (mirrors .mintignore)
+drafts/
+*.draft.mdx
+
+# Environment
+.env
+.env.local
+.env*.local
